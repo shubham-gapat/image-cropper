@@ -1,0 +1,19 @@
+.upload-image {
+  cursor: pointer;
+  margin-top: 10px;
+  color: darkblue;
+  text-decoration: underline;
+}
+
+.default-upload-image {
+  margin-top: 100%;
+  margin-left: 15%;
+  cursor: pointer;
+}
+
+.company-logo {
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+}
+

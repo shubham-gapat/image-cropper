@@ -1,0 +1,40 @@
+.btn {
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    height: 43px;
+    border-color: #828282;
+    border-radius: 10px;
+  }
+
+  .btn-save,
+.btn-save:hover,
+.btn-save:active,
+.btn-save:visited,
+.btn-save:focus {
+  background: darkblue !important;
+  border-color: darkblue !important;
+  color: white;
+  width: 106px;
+  cursor: pointer;
+  cursor: pointer;
+  font-weight: bold;
+  height: 43px;
+  border-radius: 10px;
+}
+
+.btn-cancel,
+.btn-cancel:hover,
+.btn-cancel:active,
+.btn-cancel:visited,
+.btn-cancel:focus {
+  background: white !important;
+  border-color: darkblue !important;
+  color: darkblue;
+  width: 106px;
+  cursor: pointer;
+  cursor: pointer;
+  font-weight: bold;
+  height: 43px;
+  border-radius: 10px;
+}
